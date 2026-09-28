@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# Virtual environments and local settings
+.venv/
+venv/
+.env
+.vscode/
+
+# Dataset images and generated model artifacts
+data/
+train/
+archive (1)/cat_dog/
+models/
+*.keras
+*.h5
+*.ckpt*
+
+# Notebook and tooling state
+.ipynb_checkpoints/
+.ipython/
