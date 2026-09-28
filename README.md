@@ -1,4 +1,4 @@
-# Cat vs. Dog CNN
+# Cat_Dog_classification
 
 A reproducible TensorFlow project for binary cat/dog image classification. It includes a validated data pipeline, an ImageNet-pretrained MobileNetV2 CNN, command-line training and prediction, and tests. The first training run downloads the pretrained weights if they are not already cached.
 
